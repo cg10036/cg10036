@@ -1,8 +1,18 @@
+### Hello, I'm Soohyuk Lee (cg10036)
+
 ![cg10036's GitHub stats](https://github-readme-stats.vercel.app/api?username=cg10036&show_icons=true&theme=)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cg10036)](https://solved.ac/cg10036/)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cg10036&layout=compact&theme=)
+
+🛠️ Stacks
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/><img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/><img src="https://img.shields.io/badge/Java-FFFFFF?style=flat-square&logo=OpenJDK&logoColor=black"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/><img src="https://img.shields.io/badge/x86__64%20Asm-0071C5?style=flat-square&logo=Intel&logoColor=white"/><img src="https://img.shields.io/badge/ARM%20Asm-0091BD?style=flat-square&logo=Arm&logoColor=white"/><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"><img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+
+
 <details>
-  <summary>외부활동 및 수상</summary>
+  <summary>커리어</summary>
   
   
   - 2019
@@ -33,4 +43,5 @@
 
   - 2023
     - WINK 동아리 WINKATHON 대회 제일 잘했상 (1등)
+    - [Phylaxis](https://phylaxis.net/) CTO
 </details>
