@@ -12,7 +12,7 @@
 
 
 <details>
-  <summary>커리어</summary>
+  <summary>Highlights</summary>
   
   
   - 2019
