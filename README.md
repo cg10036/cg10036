@@ -4,7 +4,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cg10036)](https://solved.ac/cg10036/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cg10036&layout=compact&theme=)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cg10036&layout=compact)
 
 🛠️ Stacks
 
