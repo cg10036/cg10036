@@ -44,4 +44,7 @@
   - 2023
     - WINK 동아리 WINKATHON 대회 제일 잘했상 (1등)
     - [Phylaxis](https://phylaxis.net/) CTO
+
+  - 2024
+    - [Phylaxis](https://phylaxis.net/) CTO
 </details>
