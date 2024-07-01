@@ -44,7 +44,6 @@
     - 선린인터넷고등학교 수업방법개선 협력강사
 
   - 2023
-    - WINK 동아리 WINKATHON 대회 제일 잘했상 (1등)
     - [Phylaxis](https://phylaxis.net/) CTO
 
   - 2024
