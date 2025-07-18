@@ -17,7 +17,7 @@
 |---|---|
 |2025.07|2025 국민대학교 사이버공격 방어대회 최우수상|
 |2025.05|[캡스톤디자인2025(졸업작품)](https://github.com/cg10036/Bento) 우수상|
-|2025.01 - |[서울대학교병원 융합의학과 의생명정보학 연구실(SNUH BMI Lab)](https://sites.google.com/view/snuh-bmi-lab) 산학협력 [캡스톤디자인2025(졸업작품)](https://github.com/cg10036/Bento) 진행|
+|2025.01 - 2025.05|[서울대학교병원 융합의학과 의생명정보학 연구실(SNUH BMI Lab)](https://sites.google.com/view/snuh-bmi-lab) 산학협력 [캡스톤디자인2025(졸업작품)](https://github.com/cg10036/Bento) 진행|
 |2024.11 - |[분산 데이터 처리 시스템 연구소 (DDPS Lab)](https://ddps.cloud) 학부연구생
 |2023.08 - 2024.10|[Phylaxis](https://phylaxis.net/) 스타트업 CTO|
 |2022.10 - 2023.01|[분산 데이터 처리 시스템 연구소 (DDPS Lab)](https://ddps.cloud) 학부연구생|
